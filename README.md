@@ -1,22 +1,43 @@
-# Olá, eu sou o Diego 👋
+# 👋 Olá, eu sou o Diego Amorim
 
-## Sobre Mim
+🎓 Estudante de **Ciência de Dados**  
+🏫 Instituto Federal do Ceará (IFCE)  
+💻 Focado em **análise de dados, machine learning e desenvolvimento de projetos aplicados**
 
-Sou estudante de **Engenharia de Computação** no **IFCE**, atualmente focado em adquirir conhecimentos em **dados** e **programação**.
+---
 
-Também sou aficionado por **programação**, principalmente em **Python**, e estou focado em **ciência de dados**, com o objetivo de aplicar esse conhecimento em várias áreas.
+## 🚀 Sobre mim
 
-## Habilidades
+Sou estudante de **Data Science** no IFCE, com interesse em transformar dados em **informações estratégicas** por meio de análise, modelagem e visualização.  
+Busco sempre aplicar o que aprendo em projetos práticos que demonstrem minhas habilidades técnicas e capacidade analítica.  
 
-- **Programação em Python**: Conhecimento avançado em Python para programação geral, orientada a objetos e ciência de dados.
-- **Ciência de Dados**: Experiência em lidar com dados, analisá-los e aplicar algoritmos de aprendizado de máquina.
-- **Design de Lógica Digital**: Experiência prática com contadores, latches, flip-flops e drivers de display.
+---
 
-## Atualmente Estudando
+## 🛠️ Tecnologias
 
-- **Python para Ciência de Dados**: Continuando minha jornada para dominar o Python na análise e processamento de dados.
-- **Aprendizado de Máquina**: Aprendendo a aplicar técnicas de aprendizado de máquina em conjuntos de dados reais.
+- **Linguagens:** Python, SQL  
+- **Bibliotecas:** Pandas, NumPy, Scikit-Learn & Matplotlib
+- **Ferramentas:** Jupyter Notebook, Google Colab, Git & GitHub  
 
-## Contato
+---
 
-- [LinkedIn](https://www.linkedin.com/in/diego-amvi/)
+## 📂 Portfólio de Projetos
+
+🔹 [🤖 Análise de Sentimentos]((https://github.com/diegonhd/Analise_Sentimentos_Ecommerce)) – Aplicação de NLP com modelos pré-treinados para classificação de sentimentos em textos.  
+🔹 [📈 Operações de um Internet Banking]((https://github.com/diegonhd/MyBank_OpsHistory)) – Aplicação web para visualização e navegação no histórico de operações financeiras de uma conta corrente.
+🔹 [🧮 Comunicação em Sockets em C]((https://github.com/diegonhd/C_Chat)) – Envio e recebimento de mensagens através da retransmissão de informações feita por um servidor.
+
+
+## 📊 Estatísticas do GitHub
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=diegonhd&show_icons=true&theme=radical)  
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=diegonhd&layout=compact&theme=radical)
+
+---
+
+## 📫 Contato
+
+- 💼 [LinkedIn]([(https://www.linkedin.com/in/diego-amvi/))  
+- 📧 E-mail: [diegoamorimvidal@gmail.com]  
+
+---
