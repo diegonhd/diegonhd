@@ -23,9 +23,9 @@ Busco sempre aplicar o que aprendo em projetos práticos que demonstrem minhas h
 
 ## 📂 Portfólio de Projetos
 
-🔹 [🤖 Análise de Sentimentos]((https://github.com/diegonhd/Analise_Sentimentos_Ecommerce)) – Aplicação de NLP com modelos pré-treinados para classificação de sentimentos em textos.  
-🔹 [📈 Operações de um Internet Banking]((https://github.com/diegonhd/MyBank_OpsHistory)) – Aplicação web para visualização e navegação no histórico de operações financeiras de uma conta corrente.
-🔹 [🧮 Comunicação em Sockets em C]((https://github.com/diegonhd/C_Chat)) – Envio e recebimento de mensagens através da retransmissão de informações feita por um servidor.
+🔹 [🤖 Análise de Sentimentos](https://github.com/diegonhd/Analise_Sentimentos_Ecommerce) – Aplicação de NLP com modelos pré-treinados para classificação de sentimentos em textos.  
+🔹 [📈 Operações de um Internet Banking](https://github.com/diegonhd/MyBank_OpsHistory) – Aplicação web para visualização e navegação no histórico de operações financeiras de uma conta corrente.
+🔹 [🧮 Comunicação em Sockets em C](https://github.com/diegonhd/C_Chat) – Envio e recebimento de mensagens através da retransmissão de informações feita por um servidor.
 
 
 ## 📊 Estatísticas do GitHub
@@ -37,7 +37,7 @@ Busco sempre aplicar o que aprendo em projetos práticos que demonstrem minhas h
 
 ## 📫 Contato
 
-- 💼 [LinkedIn]((https://www.linkedin.com/in/diego-amvi/))  
+- 💼 [LinkedIn](https://www.linkedin.com/in/diego-amvi/)  
 - 📧 E-mail: [diegoamorimvidal@gmail.com]  
 
 ---
