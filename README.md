@@ -37,7 +37,7 @@ Busco sempre aplicar o que aprendo em projetos práticos que demonstrem minhas h
 
 ## 📫 Contato
 
-- 💼 [LinkedIn]([(https://www.linkedin.com/in/diego-amvi/))  
+- 💼 [LinkedIn]((https://www.linkedin.com/in/diego-amvi/))  
 - 📧 E-mail: [diegoamorimvidal@gmail.com]  
 
 ---
