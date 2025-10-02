@@ -8,7 +8,7 @@
 
 ## 🚀 Sobre mim
 
-Sou estudante de **Data Science** no IFCE, com interesse em transformar dados em **informações estratégicas** por meio de análise, modelagem e visualização.  
+Sou estudante de **Engenharia de Computação** no IFCE.
 Busco sempre aplicar o que aprendo em projetos práticos que demonstrem minhas habilidades técnicas e capacidade analítica.  
 
 ---
