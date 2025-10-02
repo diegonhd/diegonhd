@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Diego Amorim
 
-🎓 Estudante de **Ciência de Dados**  
+🎓 Estudante de **Engenharia da Computação**  
 🏫 Instituto Federal do Ceará (IFCE)  
 💻 Focado em **análise de dados, machine learning e desenvolvimento de projetos aplicados**
 
@@ -8,7 +8,7 @@
 
 ## 🚀 Sobre mim
 
-Sou estudante de **Engenharia de Computação** no IFCE.
+Sou estudante de **Engenharia da Computação** no IFCE.
 Busco sempre aplicar o que aprendo em projetos práticos que demonstrem minhas habilidades técnicas e capacidade analítica.  
 
 ---
