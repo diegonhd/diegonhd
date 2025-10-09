@@ -27,7 +27,7 @@ Busco sempre aplicar o que aprendo em projetos práticos que demonstrem minhas h
 
 🔹 [📈 Operações de um Internet Banking](https://github.com/diegonhd/MyBank_OpsHistory) – Aplicação web para visualização e navegação no histórico de operações financeiras de uma conta corrente.
 
-🔹 [🧮 Comunicação em Sockets em C](https://github.com/diegonhd/C_Chat) – Envio e recebimento de mensagens através da retransmissão de informações feita por um servidor.
+🔹 [🧮 Análise de Array Sorting](https://github.com/diegonhd/ArraySorting_DataAnalysis) – Análise de dados de ferramentas para ordenação de arrays.
 
 
 ## 📊 Estatísticas do GitHub
