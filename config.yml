@@ -1,57 +1,65 @@
-# Your GitHub username (required)
+# Seu nome de usuário do GitHub
 username: diegonhd
 
-# Profile information displayed in the galaxy header
+# Informações do perfil exibidas no cabeçalho da galáxia
 profile:
   name: "Diego Amorim Vidal"
   tagline: "Computer Engineering Student | Data Science & Engineering"
   location: "Fortaleza, Brazil"
   bio: |
-    Apaixonado por Ciência de Dados e Engenharia de Computação. 
-    Explorando a interseção entre performance de algoritmos em baixo nível e inteligência artificial.
-  philosophy: '"Transforming raw data into intelligent insights through engineering excellence."'
+    Estudante de Engenharia de Computação apaixonado por Ciência de Dados e a eficiência de sistemas. 
+    Explorando a interseção entre algoritmos de baixo nível em C e inteligência artificial.
+  philosophy: '"Transforming complex data into intelligent, efficient systems."'
 
-# Social links displayed at the bottom of the profile
+# Links sociais
 social:
-  email: "seu-email@exemplo.com" # Substitua pelo seu email se desejar
   linkedin: "diegonhd"
   website: "https://github.com/diegonhd"
 
-# Galaxy arms represent your core focus areas
-# Available colors: "synapse_cyan", "dendrite_violet", "axon_amber"
+# Os braços da galáxia representam suas áreas principais de foco
+# Disponíveis: "synapse_cyan", "dendrite_violet", "axon_amber"
 galaxy_arms:
-  - name: "Data Science"
+  - name: "AI & Data Science"
     color: "synapse_cyan"
     items:
       - "Python"
+      - "Machine Learning"
       - "Scikit-learn"
-      - "Pandas/NumPy"
   - name: "Data Engineering"
     color: "dendrite_violet"
     items:
       - "SQL"
       - "Azure"
-      - "PostgreSQL"
-  - name: "Systems & Low Level"
+      - "Database Design"
+  - name: "Systems & Algorithms"
     color: "axon_amber"
     items:
       - "C"
+      - "Data Structures"
       - "Computer Architecture"
-      - "Algorithms"
 
-# Featured projects shown as constellation stars
+# Projetos em destaque como estrelas nas constelações
 projects:
-  - repo: "diegonhd/nba-champions-pca"
+  - repo: "diegonhd/sentiment-analysis-eCom"
     arm: 0
-    description: "Data Science: Análise multivariada (PCA) de estatísticas da NBA."
-  - repo: "diegonhd/music-platform-sql"
+    description: "NLP: Análise de sentimentos para e-commerce com Python."
+  - repo: "diegonhd/nba-pca-analysis"
+    arm: 0
+    description: "Data Science: Análise de componentes principais (PCA) de campeões da NBA."
+  - repo: "diegonhd/music-platform-db-design"
     arm: 1
-    description: "Data Engineering: Modelagem de banco de dados SQL (Spotify style)."
-  - repo: "diegonhd/sorting-algorithms-analysis"
+    description: "Data Engineering: Design de esquema SQL para plataforma de música (Spotify style)."
+  - repo: "diegonhd/chat-server-client"
     arm: 2
-    description: "Systems: Estudo de performance e complexidade de algoritmos de ordenação."
+    description: "Systems: Servidor e cliente de chat implementados em linguagem C."
+  - repo: "diegonhd/data-structures-visualizer"
+    arm: 2
+    description: "Algorithms: Ferramenta de visualização de estruturas de dados e algoritmos."
+  - repo: "diegonhd/benchmark-array-sorting"
+    arm: 2
+    description: "Performance: Análise de performance de algoritmos de ordenação."
 
-# Stats configuration
+# Configuração de estatísticas
 stats:
   metrics:
     - "commits"
@@ -60,10 +68,11 @@ stats:
     - "issues"
     - "repos"
 
-# Language display settings
+# Configurações de exibição de linguagens
 languages:
   exclude:
     - "HTML"
     - "CSS"
     - "Shell"
-  max_display: 6
+    - "Makefile"
+  max_display: 8
