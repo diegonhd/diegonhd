@@ -43,7 +43,7 @@ Estudante de **Engenharia de Computação** em Fortaleza/CE, focado em transform
   <a href="diegoamorimvidal@gmail.com">
     <img src="https://img.shields.io/badge/-Email-080c14?style=for-the-badge&logo=gmail&logoColor=00d4ff" alt="Email"/>
   </a>
-  <a href="https://www.linkedin.com/in/diegonhd/">
+  <a href="https://www.linkedin.com/in/diego-amvi/">
     <img src="https://img.shields.io/badge/-LinkedIn-080c14?style=for-the-badge&logo=linkedin&logoColor=a78bfa" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/diegonhd">
