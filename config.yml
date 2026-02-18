@@ -74,5 +74,4 @@ languages:
     - "HTML"
     - "CSS"
     - "Shell"
-    - "Makefile"
   max_display: 8
