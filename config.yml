@@ -40,24 +40,15 @@ galaxy_arms:
 
 # Projetos em destaque como estrelas nas constelações
 projects:
-  - repo: "diegonhd/sentiment-analysis-eCom"
-    arm: 0
-    description: "NLP: Análise de sentimentos para e-commerce com Python."
   - repo: "diegonhd/nba-pca-analysis"
     arm: 0
     description: "Data Science: Análise de componentes principais (PCA) de campeões da NBA."
   - repo: "diegonhd/music-platform-db-design"
     arm: 1
     description: "Data Engineering: Design de esquema SQL para plataforma de música (Spotify style)."
-  - repo: "diegonhd/chat-server-client"
-    arm: 2
-    description: "Systems: Servidor e cliente de chat implementados em linguagem C."
   - repo: "diegonhd/data-structures-visualizer"
     arm: 2
     description: "Algorithms: Ferramenta de visualização de estruturas de dados e algoritmos."
-  - repo: "diegonhd/benchmark-array-sorting"
-    arm: 2
-    description: "Performance: Análise de performance de algoritmos de ordenação."
 
 # Configuração de estatísticas
 stats:
