@@ -40,7 +40,7 @@ Estudante de **Engenharia de Computação** em Fortaleza/CE, focado em transform
 <br/>
 
 <div align="center">
-  <a href="diegoamorimvidal@gmail.com">
+  <a href="mailto:diegoamorimvidal@gmail.com">
     <img src="https://img.shields.io/badge/-Email-080c14?style=for-the-badge&logo=gmail&logoColor=00d4ff" alt="Email"/>
   </a>
   <a href="https://www.linkedin.com/in/diego-amvi/">
