@@ -1,0 +1,69 @@
+# Your GitHub username (required)
+username: diegonhd
+
+# Profile information displayed in the galaxy header
+profile:
+  name: "Diego Amorim Vidal"
+  tagline: "Computer Engineering Student | Data Science & Engineering"
+  location: "Fortaleza, Brazil"
+  bio: |
+    Apaixonado por Ciência de Dados e Engenharia de Computação. 
+    Explorando a interseção entre performance de algoritmos em baixo nível e inteligência artificial.
+  philosophy: '"Transforming raw data into intelligent insights through engineering excellence."'
+
+# Social links displayed at the bottom of the profile
+social:
+  email: "seu-email@exemplo.com" # Substitua pelo seu email se desejar
+  linkedin: "diegonhd"
+  website: "https://github.com/diegonhd"
+
+# Galaxy arms represent your core focus areas
+# Available colors: "synapse_cyan", "dendrite_violet", "axon_amber"
+galaxy_arms:
+  - name: "Data Science"
+    color: "synapse_cyan"
+    items:
+      - "Python"
+      - "Scikit-learn"
+      - "Pandas/NumPy"
+  - name: "Data Engineering"
+    color: "dendrite_violet"
+    items:
+      - "SQL"
+      - "Azure"
+      - "PostgreSQL"
+  - name: "Systems & Low Level"
+    color: "axon_amber"
+    items:
+      - "C"
+      - "Computer Architecture"
+      - "Algorithms"
+
+# Featured projects shown as constellation stars
+projects:
+  - repo: "diegonhd/nba-champions-pca"
+    arm: 0
+    description: "Data Science: Análise multivariada (PCA) de estatísticas da NBA."
+  - repo: "diegonhd/music-platform-sql"
+    arm: 1
+    description: "Data Engineering: Modelagem de banco de dados SQL (Spotify style)."
+  - repo: "diegonhd/sorting-algorithms-analysis"
+    arm: 2
+    description: "Systems: Estudo de performance e complexidade de algoritmos de ordenação."
+
+# Stats configuration
+stats:
+  metrics:
+    - "commits"
+    - "stars"
+    - "prs"
+    - "issues"
+    - "repos"
+
+# Language display settings
+languages:
+  exclude:
+    - "HTML"
+    - "CSS"
+    - "Shell"
+  max_display: 6
