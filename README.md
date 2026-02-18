@@ -1,9 +1,3 @@
-<!-- Galaxy Profile README Template
-     Customize this file with your own info, then rename it to README.md
-     in your GitHub profile repo (github.com/YOUR_USERNAME/YOUR_USERNAME).
-     The SVG paths below point to assets/generated/ which are auto-generated
-     by the GitHub Actions workflow or by running: python -m generator.main -->
-
 <div align="center">
   <img src="./assets/generated/galaxy-header.svg" width="850" alt="Galaxy Header"/>
 </div>
@@ -29,23 +23,30 @@
 <br/>
 
 <details>
-<summary><strong>More about me</strong></summary>
+<summary><strong>🚀 Mais sobre mim</strong></summary>
 
 <br/>
 
-Building tools that make developers' lives easier.
-Passionate about distributed systems, developer experience, and the open-source ecosystem.
+Estudante de **Engenharia de Computação** em Fortaleza/CE, focado em transformar dados em inteligência. Tenho forte interesse em Ciência de Dados, Engenharia de Dados e na performance de sistemas de baixo nível.
 
-**Currently at** Stellar Labs — San Francisco, CA
+**Principais Competências:**
+* **Data Science:** Python (Pandas, Scikit-learn, XGBoost), PCA e análise estatística.
+* **Data Engineering:** SQL (PostgreSQL/Server), modelagem de dados e Cloud (Azure).
+* **Engenharia:** Linguagem C, Arquitetura de Computadores (MIPS) e Redes (Huawei HCIA).
+
+**Localização:** Fortaleza, Brasil 🇧🇷
 </details>
 
 <br/>
 
 <div align="center">
-  <a href="mailto:nyx@stellarlabs.dev">
+  <a href="diegoamorimvidal@gmail.com">
     <img src="https://img.shields.io/badge/-Email-080c14?style=for-the-badge&logo=gmail&logoColor=00d4ff" alt="Email"/>
   </a>
-  <a href="https://www.linkedin.com/in/nyxorion/">
+  <a href="https://www.linkedin.com/in/diegonhd/">
     <img src="https://img.shields.io/badge/-LinkedIn-080c14?style=for-the-badge&logo=linkedin&logoColor=a78bfa" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/diegonhd">
+    <img src="https://img.shields.io/badge/-GitHub-080c14?style=for-the-badge&logo=github&logoColor=ffb020" alt="GitHub"/>
   </a>
 </div>
