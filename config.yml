@@ -43,9 +43,9 @@ projects:
   - repo: "diegonhd/nba-pca-analysis"
     arm: 0
     description: "Data Science: Análise de componentes principais (PCA) de campeões da NBA."
-  - repo: "diegonhd/music-platform-db-design"
+  - repo: "diegonhd/digital-bank-sql"
     arm: 1
-    description: "Data Engineering: Design de esquema SQL para plataforma de música (Spotify style)."
+    description: "Data Engineering: Design de esquema SQL para banco digital centralizado."
   - repo: "diegonhd/data-structures-visualizer"
     arm: 2
     description: "Algorithms: Ferramenta de visualização de estruturas de dados e algoritmos."
